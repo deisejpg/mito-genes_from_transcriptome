@@ -1,7 +1,7 @@
 
-# Snake project
+# Snake project (publication in prep)
 
-*Tutorial prepared by Deise Gonçalves in collaboration with Drew Larson and Peter Cerda*
+*Tutorial prepared by Deise Gonçalves.  Project developed in collaboration with Drew Larson and Peter Cerda*
 
 Here we present all the steps to extract mitochondrion genes from transcriptome data for phylogenetic inference. Note that this tutorial can also be used to extract any other gene or sets of genes from different types of genomic datasets.
 
